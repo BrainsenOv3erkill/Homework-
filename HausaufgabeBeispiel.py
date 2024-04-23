@@ -1,1 +1,1 @@
-print ("Moin")
+print ("Moinsen")
